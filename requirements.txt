@@ -1,0 +1,5 @@
+streamlit
+google-auth-oauthlib
+PyPDF2
+langchain
+groq
